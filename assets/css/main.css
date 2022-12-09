@@ -3358,10 +3358,7 @@ input, select, textarea {
 			/*#header .logo span {
 				display: none;
 			}*/
-			#header .logo {
-				margin-top: 30px;
-				margin-left: 12px;
-			}
+			
 			
 
 			#header nav a[href="#menu"] {
